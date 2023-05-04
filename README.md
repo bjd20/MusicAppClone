@@ -1,2 +1,2 @@
 # MusicAppClone
-An Android app to view musics from the storage in a playist and play it
+It is an Android app develped in android studion using java to view and play musics from the storage.
